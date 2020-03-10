@@ -1,0 +1,32 @@
+.topl {
+  left: 0;
+  background-color: red;
+  height: 50%;
+  width: 50%;
+  position: fixed;
+  top: 0;
+}
+.topr {
+  right: 0;
+  background-color: blue;
+  height: 50%;
+  width: 50%;
+  position: fixed;
+  top: 0;
+}
+.bottoml{
+  left: 0;
+  background-color: green;
+  height: 50%;
+  width: 50%;
+  position: fixed;
+  bottom: 0;
+}
+.bottomr{
+    right: 0;
+    background-color: yellow;
+    height: 50%;
+    width: 50%;
+    position: fixed;
+    bottom: 0;
+}
